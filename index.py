@@ -799,7 +799,7 @@
               <div class="radio-tuner-dial">
                 <div class="radio-tuner-scale" aria-hidden="true"></div>
                 <div id="radio-tuner-needle" class="radio-tuner-needle" aria-hidden="true"></div>
-                <input id="radio-tuner-slider" type="range" min="0" max="0" step="1" value="0"
+                <input id="radio-tuner-slider" type="range" min="0" max="0" step="1.1" value="0"
                   aria-label="Tune available internet radio stations" aria-valuetext="No station available" disabled />
               </div>
               <div class="radio-tuner-readout">
